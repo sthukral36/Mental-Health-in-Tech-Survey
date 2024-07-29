@@ -1,4 +1,5 @@
-Corporate Mental Health Analysis
+## Corporate Mental Health Analysis
+
 Project Overview
 This project aims to analyze and predict mental health issues among employees in a corporate environment using machine learning techniques.
 By leveraging survey data, the project seeks to identify key factors influencing mental health and develop a predictive model to assist organizations in proactive mental health management.
