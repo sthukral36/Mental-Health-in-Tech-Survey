@@ -31,11 +31,11 @@ Run the data preprocessing script to clean and prepare the dataset like removing
 label encoding , made some meaningful visualization.
 
  
-####Model Training and Evaluation
+#### Model Training and Evaluation
 
 Run the model training script to train and evaluate the machine learning models using hyper parameter tunning and tried different models in order to find the best fit model for our data.
 
  
-####Results
+#### Results
 This project provides a comprehensive approach to predicting mental health issues in the workplace, offering organizations valuable insights to improve employee well-being.
  The use of machine learning techniques ensures accurate predictions and effective mental health management.
